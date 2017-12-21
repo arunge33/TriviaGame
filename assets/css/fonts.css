@@ -1,0 +1,56 @@
+@font-face {
+font-family: PrettyFont ;
+src: url("../fonts/PrettyFont.ttf");
+}
+@font-face {
+font-family: WickedMouse ;
+src: url("../fonts/WickedMouse.otf");
+}
+@font-face {
+font-family: Prototype ;
+src: url("../fonts/Prototype.ttf");
+}
+@font-face {
+font-family: waltograph42 ;
+src: url("../fonts/waltograph42.ttf");
+}
+
+@font-face {
+font-family: Ravenscroft ;
+src: url("../fonts/Ravenscroft.ttf");
+}
+
+@font-face {
+font-family: Bettynoir ;
+src: url("../fonts/bettynoir.ttf");
+}
+
+@font-face {
+font-family: Animals ;
+src: url("../fonts/animals.ttf");
+}
+
+#show-number {
+  font-size: 30px;
+  text-align: center;
+}
+#WDW {
+  font-family: waltograph42, Helvetica, Arial, sans-serif;
+  font-size: 35px;
+}
+#land {
+  font-family: Prototype, Helvetica, Arial, sans-serif;
+  font-size: 25px;
+}
+#hwtot {
+  font-family: Bettynoir, Helvetica, Arial, sans-serif;
+  font-size: 25px;
+}
+#tree {
+  font-family: Animals, Helvetica, Arial, sans-serif;
+  font-size: 20px;
+}
+#haunts {
+  font-family: Ravenscroft, Helvetica, Arial, sans-serif;
+  font-size: 40px;
+}

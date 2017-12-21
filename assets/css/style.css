@@ -8,46 +8,12 @@ body{
   background-position: cover;
   background-repeat: no-repeat;
   font-size: 20px;
-
 }
-
-@font-face {
-font-family: PrettyFont ;
-src: url("../fonts/PrettyFont.ttf");
-}
-@font-face {
-font-family: WickedMouse ;
-src: url("../fonts/WickedMouse.otf");
-}
-@font-face {
-font-family: Prototype ;
-src: url("../fonts/Prototype.ttf");
-}
-@font-face {
-font-family: waltograph42 ;
-src: url("../fonts/waltograph42.ttf");
-}
-
-@font-face {
-font-family: Ravenscroft ;
-src: url("../fonts/Ravenscroft.ttf");
-}
-
-@font-face {
-font-family: Bettynoir ;
-src: url("../fonts/bettynoir.ttf");
-}
-
-@font-face {
-font-family: Animals ;
-src: url("../fonts/animals.ttf");
-}
-
 
 .center {
     margin: auto;
     width: 60%;
-    border: 3px solid green;
+    border: 3px solid pink;
     padding: 10px;
     background-color: white;
     margin-top: 20px;
@@ -56,8 +22,6 @@ src: url("../fonts/animals.ttf");
 .questions {
   line-height: 45px;
   text-align: center;
-
-
 }
 
 header {
@@ -76,41 +40,13 @@ font-size: 30px;
 text-align: center;
 }
 
-#show-number {
-  font-size: 30px;
+.submit {
+  margin: auto;
   text-align: center;
-}
-#WDW {
-  font-family: waltograph42, Helvetica, Arial, sans-serif;
-  font-size: 35px;
-}
-#land {
-  font-family: Prototype, Helvetica, Arial, sans-serif;
-  font-size: 25px;
-}
-#hwtot {
-  font-family: Bettynoir, Helvetica, Arial, sans-serif;
-  font-size: 25px;
-}
-#tree {
-  font-family: Animals, Helvetica, Arial, sans-serif;
-  font-size: 20px;
-}
-#haunts {
-  font-family: Ravenscroft, Helvetica, Arial, sans-serif;
-  font-size: 40px;
 }
 
-img {
+#submit {
+  width: 20em;
+  height: 3em;
+  background-color: orange;
 }
-/*
-footer {
-  padding: 30px 0;
-  clear: both;
-  font-size: 12px;
-  color: #fff;
-  color: #ccc;
-  text-align: center;
-  background: #666;
-  border-top: 8px solid #4aaaa5;
-} */
